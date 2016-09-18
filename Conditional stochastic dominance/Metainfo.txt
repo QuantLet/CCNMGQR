@@ -1,0 +1,13 @@
+Name of Quantlet: Conditional stochastic dominance
+
+Published in: 'Confidence corridors for nonparametric multivariate generalized quantile regression'
+
+Description: 'The main file which generates the 2 dimensional (age, years of schooling) 3D figures'
+
+Keywords: kernel, 3D, nonparametric, multivariate, quantile
+
+See also: kernel,lcrq
+
+Author: Shih-Kang Chao, Katharina Proksch, Holger Dette and Wolfgang Haerdle
+
+Submitted:  19/09/2016 by Lining Yu
