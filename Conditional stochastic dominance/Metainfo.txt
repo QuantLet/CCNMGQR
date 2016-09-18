@@ -10,4 +10,4 @@ See also: kernel,lcrq
 
 Author: Shih-Kang Chao, Katharina Proksch, Holger Dette and Wolfgang Haerdle
 
-Submitted:  19/09/2016 by Lining Yu
+Submitted:  18/09/2016 by Lining Yu
