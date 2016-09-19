@@ -1,0 +1,13 @@
+Name of Quantlet: Theoretical_cov_error_qr_hetero
+
+Published in: 'Confidence corridors for nonparametric multivariate generalized quantile regression'
+
+Description: 'The main file which performs the Monte Carlo simulation for the coverage ratio of the theoretical multivariate confidence band for nonparametric kernel quantile regression. The data generating model is a heterogeneous model.'
+
+Keywords: 'kernel, nonparametric, multivariate, quantile, regression, confidence-bands'
+
+See also: kernel,lcrq
+
+Author: Shih-Kang Chao, Katharina Proksch, Holger Dette and Wolfgang Haerdle
+
+Submitted:  19/09/2016 by Lining Yu
