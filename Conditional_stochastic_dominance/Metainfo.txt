@@ -1,4 +1,4 @@
-Name of Quantlet: Conditional stochastic dominance
+Name of Quantlet: Conditional_stochastic_dominance
 
 Published in: 'Confidence corridors for nonparametric multivariate generalized quantile regression'
 
