@@ -1,0 +1,11 @@
+|Q-Quali |Q folders                             |Q Names                          |Descriptions stats           |Keywords stats           |Meta Info data fields |PDF files                                |
+|:-------|:-------------------------------------|:--------------------------------|:----------------------------|:------------------------|:---------------------|:----------------------------------------|
+|B       |Conditional_stochastic_dominance      |Conditional_stochastic_dominance |13 word(s), 68 Character(s)  |5: 5 (standard), 0 (new) |q, p, a, d, k, s, sa  |If PDF is a picture PNG or JPG required! |
+|A       |Simu1_Theoretical_cov_error_er_hetero |Theoretical_cov_error_er_hetero  |32 word(s), 192 Character(s) |5: 5 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu2_Theoretical_cov_error_er_hom    |Theoretical_cov_error_er_hom     |32 word(s), 190 Character(s) |6: 6 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu3_Theoretical_cov_error_qr_hetero |Theoretical_cov_error_qr_hetero  |32 word(s), 191 Character(s) |6: 6 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu4_Theoretical_cov_error_qr_hom    |Theoretical_cov_error_qr_hom     |32 word(s), 189 Character(s) |6: 6 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu5_Bootstrap_cov_error_er_hetero   |Bootstrap_cov_error_er_hetero    |32 word(s), 190 Character(s) |7: 7 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu6_Bootstrap_cov_error_er_hom      |Bootstrap_cov_error_er_hom       |32 word(s), 188 Character(s) |7: 7 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu7_Bootstrap_cov_error_qr_hetero   |Bootstrap_cov_error_qr_hetero    |32 word(s), 189 Character(s) |7: 7 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
+|A       |Simu8_Bootstrap_cov_error_qr_hom      |Bootstrap_cov_error_qr_hom       |32 word(s), 187 Character(s) |7: 7 (standard), 0 (new) |q, p, a, d, k, s, sa  |                                         |
